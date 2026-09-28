@@ -3,24 +3,29 @@
   padding: 0;
   box-sizing: border-box;
   list-style: none;
-} body {
+} 
+body {
   font-family: "Trebuchet MS", "Arial Narrow", Arial, sans-serif;
   background-color: #0b0f14;
   color: #f5f7fa;
-} .container {
+}
+ .container {
   position: relative;
-} .div1 {
+} 
+.div1 {
   width: 100%;
   height: 100vh;
   background-image: url(../images/hero-image.jpg);
   position: relative;
   background-size: cover;
-} .overlay {
+}
+ .overlay {
   position: absolute;
   width: 100%;
   height: 100%;
   background-color: rgba(20, 20, 20, 0.6);
-} .header {
+}
+ .header {
   position: fixed;
   width: 100%;
   height: 50px;
@@ -28,12 +33,14 @@
   padding-right: 25px;
   margin-right: 25px;
   z-index: 10;
-} .homeicon i {
+} 
+.homeicon i {
   color: #e43d4f;
   font-size: 22px;
   padding-top: 15px;
   padding-left: 25px;
-} .search-box {
+} 
+.search-box {
   position: absolute;
   left: 70px;
   top: 8px;
@@ -46,11 +53,13 @@
   outline: none;
   padding-left: 15px;
   padding-right: 35px;
-} .search-box form {
+} 
+.search-box form {
   position: relative;
   width: 100%;
   height: 100%;
-} .input-search {
+} 
+.input-search {
   width: 100%;
   height: 100%;
   background-color: #151b22;
@@ -390,18 +399,22 @@
 } .sec6-container {
   width: 80%;
   margin: auto;
-} .sec6-items {
+} 
+.sec6-items {
   padding-top: 150px;
   overflow: auto;
-} .sec6-item {
+} 
+.sec6-item {
   float: left;
   text-align: center;
   width: 25%;
-} .sec6-item-icon {
+} 
+.sec6-item-icon {
   color: #e43d4f;
   margin-bottom: 15px;
   font-size: 40px;
-} .sec6-item-title , .sec6-item-text {
+} 
+.sec6-item-title , .sec6-item-text {
   color: #fff;
 } .pricing {
   padding-top: 120px;
@@ -683,7 +696,8 @@
   height: 30%;
 } .ul-footer {
   margin-top: 130px;
-} .ul-footer ul li {
+}
+ .ul-footer ul li {
   display: inline-block;
   width: 55px;
   height: 55px;
@@ -693,12 +707,14 @@
   font-size: 30px;
   padding-top: 11px;
   position: relative;
-} .ul-footer p {
+}
+ .ul-footer p {
   font-size: 13px;
   text-transform: uppercase;
   color: #aeb7c2;
   padding-top: 10px;
-} .ul-footer ul li:after {
+}
+ .ul-footer ul li:after {
   position: absolute;
   content: "";
   width: 100%;
@@ -709,16 +725,21 @@
   transition: 0.5s;
   opacity: 0.5;
   border-radius: 10px;
-} .ul-footer ul li:hover {
+}
+ .ul-footer ul li:hover {
   background-color: #a92338;
   transition: 0.5s;
-} .section-light {
+}
+ .section-light {
   background-color: #f3f1ee;
   color: #1c2128;
-} .section-light .sec4-h2,.section-light .pricing-title,.section-light .offeritem h2,.section-light .pricimg-div1-p,.section-light .pricing-div1-month,.section-light .pricing-btn,.section-light .h2welcome,.section-light .sec2-h2,.section-light .sec5-h2,.section-light .news-title h2,.section-light .news-icons h3 {
+}
+ .section-light .sec4-h2,.section-light .pricing-title,.section-light .offeritem h2,.section-light .pricimg-div1-p,.section-light .pricing-div1-month,.section-light .pricing-btn,.section-light .h2welcome,.section-light .sec2-h2,.section-light .sec5-h2,.section-light .news-title h2,.section-light .news-icons h3 {
   color: #14171c;
-} .section-light p,.section-light .sec2-p2,.section-light .sec5-p,.section-light .news-icons p {
+}
+ .section-light p,.section-light .sec2-p2,.section-light .sec5-p,.section-light .news-icons p {
   color: #5a6472;
-} .section-light .pricing-ul li,.section-light .sec5-listul li,.section-light .news-icons ul li {
+}
+ .section-light .pricing-ul li,.section-light .sec5-listul li,.section-light .news-icons ul li {
   color: #3c4451;
 }
